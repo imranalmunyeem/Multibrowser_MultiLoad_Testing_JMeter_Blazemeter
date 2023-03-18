@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://mojeek.com/,50,360,341,418,440,684,298,684,0.000%,1.01364,324.44,4.17
+Open the browser,50,360,341,418,440,684,298,684,0.000%,1.01360,324.42,4.17
+https://www.mojeek.com/search?q=cute+animal+videos,50,95,63,106,285,774,51,774,92.000%,.80619,4.53,0.75
+Search for cute animal videos,50,95,63,106,285,774,51,774,92.000%,.71830,4.04,0.67
+https://www.mojeek.com/search?q=funny+videos,4,486,284,868,868,868,61,868,25.000%,.06218,1.03,0.23
+Search for funny videos,4,486,284,868,868,868,61,868,25.000%,.04534,0.75,0.17
+TOTAL,208,238,305,400,461,774,51,868,45.192%,2.01822,317.30,5.18

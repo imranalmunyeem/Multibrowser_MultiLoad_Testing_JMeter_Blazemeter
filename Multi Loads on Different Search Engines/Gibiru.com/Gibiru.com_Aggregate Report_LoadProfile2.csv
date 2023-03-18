@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://gibiru.com/,50,616,596,727,751,919,477,919,0.000%,1.00888,3540.79,26.96
+Open the browser,50,616,596,727,751,919,477,919,0.000%,1.00888,3540.79,26.96
+https://gibiru.com/results.html?q=cute+animal+videos&cx=partner-pub-5956360965567042%3A8627692578&cof=FORID%3A11&ie=UTF-8,50,747,737,839,925,1570,293,1570,0.000%,.46488,51.71,5.18
+Search for cute animal videos,50,747,737,839,925,1570,293,1570,0.000%,.34307,38.16,3.82
+https://gibiru.com/results.html?q=funny+videos&rt=&cx=partner-pub-5956360965567042%3A8627692578&cof=FORID%3A11&ie=UTF-8,50,735,712,805,878,1733,527,1733,0.000%,.46563,7.43,5.53
+Search for funny videos,50,735,712,805,878,1733,527,1733,0.000%,.40696,6.49,4.83
+TOTAL,300,700,689,810,919,1570,293,1733,0.000%,1.84374,2235.11,30.56

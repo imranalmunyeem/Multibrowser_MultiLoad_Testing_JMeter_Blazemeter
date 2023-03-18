@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1679161897440,1275,HTTP Request,200,OK,concordia 1-2,text,true,,123522,121,3,3,https://www.concordia.ca//,685,0,545
+1679161896493,2322,HTTP Request,200,OK,concordia 1-1,text,true,,123523,121,2,2,https://www.concordia.ca//,1625,0,1484
+1679161898429,1208,HTTP Request,200,OK,concordia 1-3,text,true,,123522,121,2,2,https://www.concordia.ca//,522,0,397
+1679161899426,1256,HTTP Request,200,OK,concordia 1-4,text,true,,123522,121,2,2,https://www.concordia.ca//,535,0,377
+1679161900427,1197,HTTP Request,200,OK,concordia 1-5,text,true,,123522,121,2,2,https://www.concordia.ca//,500,0,366
+1679161901426,1241,HTTP Request,200,OK,concordia 1-6,text,true,,123523,121,2,2,https://www.concordia.ca//,539,0,408
+1679161902427,1201,HTTP Request,200,OK,concordia 1-7,text,true,,123522,121,2,2,https://www.concordia.ca//,513,0,382
+1679161903427,1239,HTTP Request,200,OK,concordia 1-8,text,true,,123522,121,2,2,https://www.concordia.ca//,548,0,413
+1679161904428,1224,HTTP Request,200,OK,concordia 1-9,text,true,,123523,121,2,2,https://www.concordia.ca//,510,0,383
+1679161905427,1236,HTTP Request,200,OK,concordia 1-10,text,true,,123523,121,1,1,https://www.concordia.ca//,536,0,375

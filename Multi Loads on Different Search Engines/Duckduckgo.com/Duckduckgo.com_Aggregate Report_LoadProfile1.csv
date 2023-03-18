@@ -1,0 +1,35 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://duckduckgo.com/,25,540,501,605,837,931,449,931,0.000%,1.01676,1104.04,7.12
+Open the browser,25,540,501,605,837,931,449,931,0.000%,1.01671,1103.99,7.12
+https://duckduckgo.com/ac/?q=c&kl=wt-wt,25,76,75,87,94,97,65,97,0.000%,1.03438,2.67,0.43
+https://duckduckgo.com/ac/?q=cu&kl=wt-wt,25,89,76,103,107,339,65,339,4.000%,1.03387,2.65,0.43
+https://duckduckgo.com/ac/?q=cute&kl=wt-wt,24,79,70,100,126,195,63,195,0.000%,.99272,2.56,0.41
+https://duckduckgo.com/ac/?q=cute+a&kl=wt-wt,24,77,72,105,108,132,59,132,0.000%,.99268,2.62,0.42
+https://duckduckgo.com/ac/?q=cute+ani&kl=wt-wt,24,75,74,83,92,100,66,100,0.000%,.99288,2.59,0.42
+https://duckduckgo.com/ac/?q=cute+anim&kl=wt-wt,24,75,72,87,88,128,60,128,0.000%,.99293,2.58,0.42
+https://duckduckgo.com/ac/?q=cute+animal&kl=wt-wt,24,73,69,90,94,100,64,100,0.000%,.99243,2.62,0.42
+https://duckduckgo.com/ac/?q=cute+animal+&kl=wt-wt,24,73,71,78,98,99,66,99,0.000%,.99354,2.64,0.42
+https://duckduckgo.com/ac/?q=cute+animal+v&kl=wt-wt,24,73,71,87,95,96,60,96,0.000%,.99350,2.66,0.42
+https://duckduckgo.com/ac/?q=cute+animal+vi&kl=wt-wt,24,77,73,85,123,135,64,135,0.000%,.99342,2.67,0.42
+https://duckduckgo.com/ac/?q=cute+animal+vide&kl=wt-wt,24,74,70,84,92,122,63,122,0.000%,.99519,2.68,0.43
+https://duckduckgo.com/ac/?q=cute+animal+videps&kl=wt-wt,24,80,74,103,110,113,64,113,0.000%,.99515,2.67,0.43
+https://duckduckgo.com/ac/?q=cute+animal+videp&kl=wt-wt,24,78,74,98,100,109,65,109,0.000%,.99527,2.70,0.43
+https://duckduckgo.com/ac/?q=cute+animal+video&kl=wt-wt,24,84,73,102,115,188,67,188,0.000%,.99519,2.67,0.43
+https://duckduckgo.com/ac/?q=cute+animal+videos&kl=wt-wt,24,80,82,99,107,116,65,116,0.000%,.99507,2.67,0.43
+https://duckduckgo.com/?q=cute+animal+videos&t=h_,24,607,615,681,821,836,424,836,0.000%,.57733,1325.38,5.46
+https://duckduckgo.com/country.json,47,31,29,40,45,54,23,54,0.000%,.94202,1.93,0.35
+https://duckduckgo.com/y.js?ifu=%7B3%7Dappid%3D055AAD1BA669BEB8B048128DC89A107C678B527B%26rguid%3Dd99d9fa7c5084c6f8692f5cc5ef85247&iurl=%7B2%7DIG%3D11962A7BD65D4C0AAF2989E1BFD04F28%26CID%3D2E5CAC242BA96A0F2E3DBEFC2AD66B7C%26Type%3DEvent.CPT%26DATA%3D0&impr=1m%3A5,24,121,100,196,202,269,92,269,0.000%,.58327,1.22,0.35
+Search for cute animal videos,24,1919,1892,2132,2156,2176,1668,2176,0.000%,.41678,975.09,7.00
+https://duckduckgo.com/ac/?q=f&kl=uk-en,24,79,74,96,112,131,68,131,0.000%,.58359,1.50,0.24
+https://duckduckgo.com/ac/?q=fu&kl=uk-en,24,78,71,88,114,162,63,162,4.167%,.58370,1.48,0.24
+https://duckduckgo.com/ac/?q=funn&kl=uk-en,23,76,69,97,130,138,65,138,0.000%,.55934,1.44,0.23
+https://duckduckgo.com/ac/?q=funny&kl=uk-en,23,71,69,85,92,105,59,105,0.000%,.55939,1.45,0.23
+https://duckduckgo.com/ac/?q=funny+&kl=uk-en,23,72,68,89,100,107,60,107,0.000%,.55923,1.45,0.23
+https://duckduckgo.com/ac/?q=funny+v&kl=uk-en,23,75,72,97,103,111,62,111,0.000%,.55926,1.48,0.24
+https://duckduckgo.com/ac/?q=funny+vi&kl=uk-en,23,69,69,76,81,87,59,87,0.000%,.55935,1.48,0.24
+https://duckduckgo.com/ac/?q=funny+vide&kl=uk-en,23,75,71,106,106,110,62,110,0.000%,.55888,1.49,0.24
+https://duckduckgo.com/ac/?q=funny+videos&kl=uk-en,23,71,69,85,88,97,63,97,0.000%,.55896,1.48,0.24
+https://duckduckgo.com/?q=funny+videos&t=h_,23,228,204,301,354,365,145,365,0.000%,.56287,26.48,5.64
+https://duckduckgo.com/y.js?ifu=%7B3%7Dappid%3D055AAD1BA669BEB8B048128DC89A107C678B527B%26rguid%3De49d0d32167d43578b0265ea1a005b3f&iurl=%7B2%7DIG%3D73471FC3C3AF4B76A9B85D534AC5ED7E%26CID%3D1F72DCA004E4625B202DCE7805A963D2%26Type%3DEvent.CPT%26DATA%3D0&impr=2m%3A27%7C6m,23,140,104,231,289,324,87,324,0.000%,.56649,1.18,0.34
+Search for funny videos,23,1067,1068,1194,1220,1276,963,1276,0.000%,.46106,34.44,6.81
+TOTAL,809,208,74,534,996,1957,23,2176,0.247%,12.08996,2541.08,27.44
